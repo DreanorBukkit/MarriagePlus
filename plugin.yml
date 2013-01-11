@@ -1,0 +1,41 @@
+name: MarriagePlus
+main: com.gmail.mikeundead.MarriagePlus
+version: 1.1
+depend: [Vault]
+commands:
+   marry:
+      description: Main command
+      usage: /marry
+      
+permissions:
+  marry.*:
+    description: Gives access to all MarriagePlus commands
+    children:
+      marry.list: true
+      marry.love: true
+      marry.pvpon: true  
+      marry.pvpoff: true 
+      marry.priest: true
+      marry.tp: true
+      marry.home: true
+  marry.list:
+    description: Allows you to use the List command
+    default: true
+  marry.love:
+    description: Allows you to use the love animation
+    default: true
+  marry.pvpon:
+    description: Allows you to enable pvp with your partner
+    default: true
+  marry.pvpoff:
+    description: Allows you to disable pvp with your partner
+    default: true
+  marry.priest:
+    description: Allows you to marry two players
+    default: op
+  marry.tp:
+    description: Allows you to tp to your partner
+    default: true
+  marry.home:
+    description: Allows you to tp / set to your home
+    default: true
