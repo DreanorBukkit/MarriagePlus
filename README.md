@@ -5,4 +5,4 @@ The continuation of the very first Marriage plugin in Minecraft that was also cr
 
 More Informations under http://dreanor.github.com/MarriagePlus/
 
-Created by ASC_Dreanor and maintained by Bryce325
+Created by ASC_Dreanor
