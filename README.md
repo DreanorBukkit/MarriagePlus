@@ -1,7 +1,7 @@
 MarriagePlus
 ============
 
-The continuation of the very first Marriage plugin in Minecraft that was also created by ASC_Dreanor. 
+The continuation of the very first Marriage plugin (also had the most horrifying [source code](https://gist.github.com/dreanor/9d0d9eb8517c465a54ee) you could imagine) in Minecraft that was also created by ASC_Dreanor. 
 
 ## Whats the purpose of the Plugin
 MarriagePlus allows you to Marry another Player in Minecraft either with a priester or just with your partner! You can gain benefits from the MarriagePlus, that only work for the Married Couple ex. Teleportation, NoPvP, health regeneration if close to partner. MarriagePlus integrates all Marriage's features but also has new exclusive features. It will also feature a complete new database structure
